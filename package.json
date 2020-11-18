@@ -1,0 +1,30 @@
+{
+  "name": "mmm-plantower",
+  "version": "1.0.0",
+  "description": "Magic Mirror Module for Plantower fine dust sensors.",
+  "main": "mmm-plantower.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimdh/MMM-Plantower.git"
+  },
+  "keywords": [
+    "MMM",
+    "MagicMirror",
+    "Plantower",
+    "PMS",
+    "dust"
+  ],
+  "author": "gimdh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gimdh/MMM-Plantower/issues"
+  },
+  "homepage": "https://github.com/gimdh/MMM-Plantower#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "plantower": "^1.1.10"
+  }
+}
