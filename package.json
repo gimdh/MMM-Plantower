@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/gimdh/MMM-Plantower#readme",
   "dependencies": {
-    "child_process": "^1.0.2",
-    "plantower": "^1.1.10"
+    "child_process": "^1.0.2"
   }
 }
